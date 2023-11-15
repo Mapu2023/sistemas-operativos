@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistemas Operativos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Sistemas Operativos</h1>
+    </header>
+
+    <section>
+        <h2>¿Qué es un Sistema Operativo?</h2>
+        <p>Un sistema operativo es un software que actúa como intermediario entre el usuario y el hardware de una computadora. Administra los recursos del sistema y proporciona servicios a las aplicaciones.</p>
+    </section>
+
+    <section>
+        <h2>Sistemas Operativos Populares</h2>
+        <ul>
+            <li>Windows</li>
+            <li>Linux</li>
+            <li>macOS</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Funciones Principales</h2>
+        <ol>
+            <li>Gestión de memoria</li>
+            <li>Planificación de procesos</li>
+            <li>Gestión de archivos</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Sistemas Operativos. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
